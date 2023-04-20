@@ -1,0 +1,44 @@
+[
+  {
+    "id":"3",
+    "question":"2 + 2 = ",
+    "options": [
+      {"answer": "It will be 5",
+      "isCorrect": false },
+
+      {"answer": "It could be 3",
+      "isCorrect": false },
+
+      {"answer": "Maybe 1",
+     "isCorrect": false },
+      
+      {"answer": "fosho 4",
+     "isCorrect": true },
+
+      {"answer": "should be 8",
+      "isCorrect": false},
+
+      {"answer": " could be 9",
+       "isCorrect": false 
+      }
+    ]
+  }
+,
+
+  {
+    
+    "id": 2,
+    "question": "The car has how many wheels?",
+    "options": [
+
+      {"answer": "There a three",
+      "isCorrect": false },
+
+      {"answer": "Only one",
+      "isCorrect": false },
+
+      {"answer": "Car has four wheels",
+      " isCorrect": true }
+    ]
+  }
+]
